@@ -1,2 +1,4 @@
-document.write('Hello World ');
-document.write('Hello 2');
+var text = prompt("Enter Your Name");
+var len = text.length;
+document.write("Number of Character<br> " + text.length +"<br>" );
+document.write(text.charAt(2));
