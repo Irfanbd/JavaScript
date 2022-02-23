@@ -1,4 +1,13 @@
-var text = prompt("Enter Your Name");
-var len = text.length;
-document.write("Number of Character<br> " + text.length +"<br>" );
-document.write(text.charAt(2));
+// var text = prompt("Enter Your Name");
+// var len = text.length;
+// document.write("Number of Character<br> " + text.length +"<br>" );
+// document.write(text.charAt(2));
+ var num1= prompt("Enter Your First Number");
+ var num2= prompt("Enter Your Second Number");
+ num1= parseInt(num1,10);
+ num2=parseInt(num2,10);
+ var sum,sub;
+ sum= num1+num2;
+ document.write("Addition ="+ sum +"</br>");
+ sub=num1-num2;
+ document.write("substruction ="+ sub);
