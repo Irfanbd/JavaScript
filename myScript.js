@@ -22,4 +22,7 @@ console.log(a);
  document.write("Addition ="+ sum +"</br>");
  sub=num1-num2;
  document.write("substruction ="+ sub);
+
+
+ //Calculator
 >>>>>>> 6f122b9589c3df170d9fb4dec2a299e044d32294
