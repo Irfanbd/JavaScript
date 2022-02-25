@@ -1,0 +1,13 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.code 
+{
+    font-family: cursive;
+    font-size: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
